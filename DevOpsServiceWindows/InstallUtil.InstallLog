@@ -1,0 +1,14 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the F:\dotnet-project\DevOpsServiceWindows\DevOpsServiceWindows\bin\Release\DevOpsServiceWindows.exe assembly's progress.
+The file is located at F:\dotnet-project\DevOpsServiceWindows\DevOpsServiceWindows\bin\Release\DevOpsServiceWindows.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the F:\dotnet-project\DevOpsServiceWindows\DevOpsServiceWindows\bin\Release\DevOpsServiceWindows.exe assembly's progress.
+The file is located at F:\dotnet-project\DevOpsServiceWindows\DevOpsServiceWindows\bin\Release\DevOpsServiceWindows.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
